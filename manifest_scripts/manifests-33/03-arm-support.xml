@@ -1,0 +1,14 @@
+<!-- I don't know what am I doing -->
+<!-- Please blame me -->
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Libhoudini -->
+  <!-- Currently using wsa-13 -->
+  <project path="vendor/intel/proprietary/houdini" name="supremegamers/vendor_intel_proprietary_houdini" remote="ghub" revision="refs/heads/wsa-13" />
+
+  <!-- LibNDK -->
+  <!-- Currently using 11arm_13arm64 -->
+  <project path="vendor/google/proprietary/ndk_translation-prebuilt" name="supremegamers/vendor_google_proprietary_ndk_translation-prebuilt" remote="ghub" revision="refs/heads/11arm_13arm64" />
+
+</manifest>
